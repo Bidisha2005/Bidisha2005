@@ -26,13 +26,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Bidisha2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bidisha2005&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 Email Me 👉 ✉️ **bidishabs2005@gmail.com** For Collaboration/Project or Anything Else(official). 😊😊
