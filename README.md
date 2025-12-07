@@ -1,6 +1,12 @@
+# 💫 Hi 👋, I'm Bidisha Kundu
+**Code the Interface. Train the Brain. Solve at Scale. (Interface=Web, Brain=AI/ML, Scale=DSA)**
+
 # 💫 About Me:
 🛠️ I’m currently working on: AI-integrated MERN projects<br>👯 I’m looking to collaborate on: Web + AI development<br>🤝 I’m looking for help with: Advanced DSA & system design<br>🌱 I’m currently learning: Trees, DP, Graphs & backend scaling<br>💬 Ask me about: MERN, React, DSA, and AI tools<br>⚡ Fun fact: I debug better after a cup of chai!
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bidisha2005&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsbidishary_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bidisha-kundu-41706428b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bidishabs2005@gmail.com) 
@@ -12,8 +18,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Bidisha2005&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bidisha2005&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bidisha2005&theme=rose&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,6 +31,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bidisha2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Email Me 👉 ✉️ **bidishabs2005@gmail.com** For Collaboration/Project or Anything Else(official). 😊😊
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Bidisha) 
