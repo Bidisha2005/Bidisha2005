@@ -36,9 +36,7 @@
 
 Email Me 👉 ✉️ **bidishabs2005@gmail.com** For Collaboration/Project or Anything Else(official). 😊😊
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Bidisha) 
-
+ 
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
@@ -47,3 +45,7 @@ Email Me 👉 ✉️ **bidishabs2005@gmail.com** For Collaboration/Project or An
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
+
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Bidisha) 
+
